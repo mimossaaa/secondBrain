@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"c32829d1dd711e83","type":"file","file":"Corea to do.md","x":-600,"y":-300,"width":400,"height":400},
+		{"id":"2740fd672fc54363","type":"text","text":"Shopping","x":-60,"y":-100,"width":250,"height":60},
+		{"id":"0e5026e55ce78df4","type":"text","text":"\n\t4f vintage\n\tI am vintage\n\tUltra vintage\n\tVintage Santa\n\tHong vin\nDongmyo Flea\nCoex Mall\nRetouch\nGovernment\nomnipeople_heavy\nItaewon\n\tPH shop\n\tsober\nApgujeong\n\tBalbal vintage\nGarosu-gil","x":-60,"y":-40,"width":280,"height":500},
+		{"id":"fa841fac0da5d15b","type":"text","text":"\nNowon Mathematics Museum\nMMCA Seoul","x":400,"y":-260,"width":400,"height":190},
+		{"id":"254dda9650621335","type":"text","text":"Museums","x":475,"y":-320,"width":250,"height":60},
+		{"id":"7c5354fb20d56525","type":"text","text":"Nature","x":320,"y":40,"width":250,"height":60},
+		{"id":"267172654ce5234e","type":"text","text":"Seoraksan","x":300,"y":100,"width":300,"height":80},
+		{"id":"8b3729d67e96b9ec","type":"text","text":"Amusement parks","x":550,"y":220,"width":250,"height":60},
+		{"id":"125a7be84df7d579","type":"text","text":"안양워터랜드\nhttps://naver.me/xv3Prcxy\n송파파크하비오워터킹덤\n워터파크&찜질스파\n캐리비안베이","x":550,"y":280,"width":250,"height":60}
+	],
+	"edges":[]
+}

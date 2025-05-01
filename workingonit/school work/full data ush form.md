@@ -1,0 +1,168 @@
+## Data Entries
+
+- **Date & Time**: 9/19/2024 17:01:53
+  - **Code**: Law
+  - **Age**: 17
+  - **Gender**: Male
+  - **Education Level**: Option 1
+  - **Importance**: 5: Extremely Important
+  - **Degree 1**: Master’s Degree
+  - **Degree 2**: High School Diploma
+  - **Degree 3**: Bachelor’s Degree
+  - **Employment Status**: Yes
+  - **Support Level**: Partially supported
+  - **Involvement Level**: Minimally supported
+  - **Confidence Level**: Partially involved
+  - **Self-Confidence**: Somewhat Confident
+  - **Agreement**: Strongly Agree
+
+- **Date & Time**: 9/23/2024 9:46:49
+  - **Code**: WALC
+  - **Age**: 17
+  - **Gender**: Male
+  - **Education Level**: Some High School
+  - **Employment Status**: Yes, full-time
+  - **Importance**: 5: Extremely Important
+  - **Degree 1**: Doctorate/Professional Degree
+  - **Degree 2**: Master’s Degree
+  - **Degree 3**: High School Diploma
+  - **Support Level**: Yes
+  - **Involvement Level**: Partially supported
+  - **Confidence Level**: Not supported
+  - **Self-Confidence**: Fully involved
+  - **Agreement**: Very Confident
+  - **Agreement Level**: Strongly Agree
+
+- **Date & Time**: 9/23/2024 9:47:46
+  - **Code**: CAST
+  - **Age**: 17
+  - **Gender**: Male
+  - **Education Level**: Some High School
+  - **Employment Status**: No
+  - **Importance**: 4: Very Important
+  - **Degree 1**: Bachelor’s Degree
+  - **Degree 2**: Bachelor’s Degree
+  - **Degree 3**: High School Diploma
+  - **Support Level**: Yes
+  - **Involvement Level**: Minimally supported
+  - **Confidence Level**: Fully supported
+  - **Self-Confidence**: Fully involved
+  - **Agreement**: Neutral
+  - **Agreement Level**: Agree
+
+- **Date & Time**: 9/23/2024 9:49:00
+  - **Code**: No
+  - **Age**: 35
+  - **Gender**: Male
+  - **Education Level**: Graduate School
+  - **Employment Status**: Yes, part-time
+  - **Importance**: 1: Not Important at All
+  - **Degree 1**: Doctorate/Professional Degree
+  - **Degree 2**: Bachelor’s Degree
+  - **Degree 3**: Master’s Degree
+  - **Support Level**: Yes
+  - **Involvement Level**: Partially supported
+  - **Confidence Level**: Not supported
+  - **Self-Confidence**: Not involved
+  - **Agreement**: Very Confident
+  - **Agreement Level**: Strongly Agree
+
+- **Date & Time**: 9/23/2024 23:13:22
+  - **Code**: cast
+  - **Age**: 17
+  - **Gender**: Female
+  - **Education Level**: Some High School
+  - **Employment Status**: Yes, part-time
+  - **Importance**: 3: Moderately Important
+  - **Degree 1**: Bachelor’s Degree
+  - **Degree 2**: High School Diploma
+  - **Degree 3**: Bachelor’s Degree
+  - **Support Level**: No
+  - **Involvement Level**: Minimally supported
+  - **Confidence Level**: Not supported
+  - **Self-Confidence**: Minimally involved
+  - **Agreement**: Somewhat Confident
+  - **Agreement Level**: Agree
+
+- **Date & Time**: 9/23/2024 23:14:35
+  - **Code**: Pulse
+  - **Age**: 18
+  - **Gender**: Male
+  - **Education Level**: Some High School
+  - **Employment Status**: No
+  - **Importance**: 4: Very Important
+  - **Degree 1**: Master’s Degree
+  - **Degree 2**: Master’s Degree
+  - **Degree 3**: None
+  - **Support Level**: Yes
+  - **Involvement Level**: Fully supported
+  - **Confidence Level**: Fully supported
+  - **Self-Confidence**: Partially involved
+  - **Agreement**: Very Confident
+  - **Agreement Level**: Neutral
+
+- **Date & Time**: 9/23/2024 23:15:28
+  - **Code**: law
+  - **Age**: 17
+  - **Gender**: Female
+  - **Education Level**: Some High School
+  - **Employment Status**: Yes, part-time
+  - **Importance**: 5: Extremely Important
+  - **Degree 1**: Bachelor’s Degree
+  - **Degree 2**: Bachelor’s Degree
+  - **Degree 3**: None
+  - **Support Level**: No
+  - **Involvement Level**: Partially supported
+  - **Confidence Level**: Fully involved
+  - **Self-Confidence**: Very Confident
+  - **Agreement**: Strongly Agree
+
+- **Date & Time**: 9/23/2024 23:17:42
+  - **Code**: Walc
+  - **Age**: 16
+  - **Gender**: Male
+  - **Education Level**: Some High School
+  - **Employment Status**: Yes, part-time
+  - **Importance**: 3: Moderately Important
+  - **Degree 1**: Bachelor’s Degree
+  - **Degree 2**: Bachelor’s Degree
+  - **Degree 3**: Yes
+  - **Support Level**: Partially supported
+  - **Involvement Level**: Fully supported
+  - **Confidence Level**: Fully involved
+  - **Self-Confidence**: Very Confident
+  - **Agreement**: Strongly Agree
+
+- **Date & Time**: 9/23/2024 23:18:10
+  - **Code**: gda
+  - **Age**: 17
+  - **Gender**: Male
+  - **Education Level**: Some High School
+  - **Employment Status**: No
+  - **Importance**: 3: Moderately Important
+  - **Degree 1**: Bachelor’s Degree
+  - **Degree 2**: High School Diploma
+  - **Degree 3**: I am the oldest
+  - **Support Level**: No
+  - **Involvement Level**: Minimally supported
+  - **Confidence Level**: Minimally supported
+  - **Self-Confidence**: Partially involved
+  - **Agreement**: Very Confident
+  - **Agreement Level**: Agree
+
+- **Date & Time**: 9/23/2024 23:21:25
+  - **Code**: Pulse
+  - **Age**: 18
+  - **Gender**: Male
+  - **Education Level**: Some High School
+  - **Employment Status**: No
+  - **Importance**: 3: Moderately Important
+  - **Degree 1**: High School Diploma
+  - **Degree 2**: Associate Degree
+  - **Degree 3**: High School Diploma
+  - **Support Level**: Unsure
+  - **Involvement Level**: Partially supported
+  - **Confidence Level**: Minimally supported
+  - **Self-Confidence**: Partially involved
+  - **Agreement**: Somewhat Confident
+  - **Agreement Level**: Agree

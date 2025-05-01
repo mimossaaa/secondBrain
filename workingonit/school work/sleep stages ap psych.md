@@ -1,0 +1,7 @@
+Sleep occurs in a cycle consisting of several stages, alternating between non-rapid eye movement (NREM) and rapid eye movement (REM) sleep. NREM has three distinct stages, progressing from light to deep sleep. During the first stage (NREM-1), you experience light sleep where you drift in and out of consciousness. The second stage (NREM-2) is marked by a deeper sleep where heart rate slows and body temperature drops. The third stage (NREM-3), also called deep sleep or slow-wave sleep, is when the body focuses on physical restoration. REM sleep, the final stage, is associated with vivid dreams, as the brain becomes more active while the body remains paralyzed to prevent movement.
+
+**Stages of Sleep:**
+- **NREM-1:** Light sleep, drifting in and out of wakefulness. Example: Feeling like you’re falling and then suddenly jerking awake.
+- **NREM-2:** Deeper sleep where body temperature drops and heart rate slows. Example: Waking up feeling a bit groggy if someone disturbs you.
+- **NREM-3 (slow-wave sleep):** Deep sleep, crucial for physical recovery and immune function. Example: You are hard to wake and may feel disoriented if woken up.
+- **REM Sleep:** The brain is highly active, and most dreaming occurs, while the body is paralyzed to prevent acting out dreams. Example: Vivid dreams like flying or being in unusual situations.

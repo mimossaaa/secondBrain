@@ -1,0 +1,12 @@
+**1 - Describe an example of your leadership experience in which you have positively influenced others, helped resolve disputes or contributed to group efforts over time.**
+
+---
+
+My relationship with museums has never been relaxed. My mom always tells me how she brought me to the local Cal academy, exploratorium, asian art museum , SF MOMA, so she could grow my mind from a young age. Her influence paid off, and she instilled a deep passion for museums within me. This love for museums naturally led me to my work as an exhibit technician at the Mission Science Workshop, where I’ve worked for the past two and a half years, where I design and maintain exhibits. I’ve designed 9 exhibits and maintained over 11, using tools from table saws, and drill presses to soldering irons. I’ve also applied arduino in many projects and used 3d printers to realize my designs made in solidworks, and fusion360.  
+  
+One of my favorite projects was a Touch-Me Terrarium, featuring the yellow-spotted millipede and its unique hydrogen cyanide defense. It was full of organisms collected while camping in Muir Woods, trekking off-trail through foggy redwood forests, meticulously collecting specimens. To maintain the terrarium while interning abroad, I designed an Arduino system that measured soil moisture, temperature, and humidity, automatically watering it as needed. I crafted a terrarium mimicking the redwood floor, complete with isopods and ferns, blending my fascination with nature and creativity in exhibit design.  
+  
+My museum journey extended internationally when I interned as a trilingual tour guide at the Seoul Botanic Park. I led tours in Korean, French, and English, studying over 40 plants and ten botanical concepts to share with visitors. I interacted with plants and people from around the world, and got to meet my favorite plants, the bottle tree and victoria lily.  
+  
+  
+Whether navigating a redwood forest for millipedes or translating botanical knowledge across languages, I harness creativity to make science accessible and engaging. However, I’ve learned to balance my excitement with clarity. My initial tessellation exhibit overwhelmed visitors with technical details, so I simplified the content, ensuring it resonated with a broader audience. By blending scientific curiosity with clear communication, I aim to inspire others to see the world with the same wonder I do.**

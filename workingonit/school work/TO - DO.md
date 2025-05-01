@@ -1,0 +1,6 @@
+- [x] gerrymandering explained 📅 2024-09-27 ✅ 2024-09-24
+- [ ] extra credit 📅 2024-09-27 
+- [ ] analyze the American community 📅 2024-09-27
+- [x] practice for census 📅 2024-09-27 ✅ 2024-09-25
+- [x] syllabus 📅 2024-09-27 ✅ 2024-09-25
+- [ ] 

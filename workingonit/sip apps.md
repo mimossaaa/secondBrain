@@ -1,0 +1,6 @@
+**  
+
+Throughout my life, there have been many changed, and differences, but one thing  among others that has remained the same is swimming. I used to swim only in the baby pool, when I was a toddler. My parents wanted me to develop my strength, and become like the legendary north african swimmer, Ayoub Hafnaoui. I’ve been swimming ever since then, and now swim very competitively, and have been the captain of my varsity team for two years despite only being a junior. Recently, my swimming has inspired me to compete in the AECSF science fair. I did a research project about the locomotions of humans in the water
+
+ecology and evolutionary biology
+	I strongly believe that evolution holds the secrets to life. Throughout my many bus rides to school and back, I've been reading a book, called "The zoologist's ----". The book describes how we can use the laws of evolution to predict what alien life will look like.  After reading this book, my interest in evolution took off. I decided to start a science project which looked at the evoltionary 

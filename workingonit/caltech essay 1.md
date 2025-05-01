@@ -1,0 +1,6 @@
+
+
+My grandfather, Kim Seok Bong, immigrated to the U.S. after spending his early life in Korea as a construction worker and farmer. He became a gardener, transforming people's yards with the knowledge he gained through his experiences. Before his passing five years ago, he often shared life lessons with me, the most memorable being: "Never kill, whether it’s an ant or an elephant. Let things live and grow." This simple yet profound philosophy rooted itself deeply in my worldview, guiding me toward a fascination with life—from bacteria to towering plants.
+
+This journey led me to UCSC, where I studied the biodegradation of plastics using microbial microcosms in the COSMOS program. The experience expanded my understanding of life at a microscopic scale, but it also fueled my passion for larger organisms. Most recently, I worked at the Seoul Botanic Park, where I immersed myself in botany, leading multilingual tours and studying over 40 plants. I had the opportunity to interact with the bottle tree and even stand on a Victoria lily, an unforgettable moment that brought my childhood fascination with plants to life. Whether in a lab or a greenhouse, I am driven by the desire to explore, nurture, and let life grow.
+

@@ -1,0 +1,9 @@
+https://store-usa.arduino.cc/products/uno-r4-wifi?selectedStore=us
+https://store-usa.arduino.cc/products/arduino-mkr-wifi-1010?selectedStore=us
+https://www.adafruit.com/product/607
+https://www.adafruit.com/product/198
+https://www.adafruit.com/product/80
+https://www.adafruit.com/product/5778
+https://www.adafruit.com/product/5955
+https://www.amazon.com/FREENOVE-ESP32-S3-WROOM-Compatible-Wireless-Detailed/dp/B0BMQ8F7FN
+https://www.adafruit.com/product/326
