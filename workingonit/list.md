@@ -1,0 +1,27 @@
+- [ ] Namsangol Hanok Village
+- [ ] Gyeongdong Market
+- [ ] Insa-dong
+- [ ] Ikseon-dong
+- [ ] Hapjeong
+- [ ] Yongsan
+- [ ] Bukchon
+- [ ] Samcheong-dong
+- [ ] Dongdaemun
+- [ ] Changsin-dong
+- [ ] HBC
+- [ ] Yeonhui-dong
+- [ ] Huam-dong
+- [ ] Buam-dong
+- [x] Seochon ✅ 2025-06-16
+- [ ] Hongje-dong
+- [ ] Myeong-dong
+- [ ] Yangjae-dong
+- [ ] Yeouido
+- [ ] Yeonnamdong
+- [ ] Songnidan Street
+- [ ] Apgujeong Rodeo Street
+- [x] Hanam-dong ✅ 2025-06-15
+- [ ] Moonrae-dong
+- [x] Seongsu-dong ✅ 2025-06-16
+- [ ] Mangwon-dong
+- [ ] Yongridan-gil
